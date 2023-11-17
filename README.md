@@ -31,5 +31,5 @@ Since the bot has to run forever I need some place to run it that it is not my c
 Setting the time of the virtual machine in order to synchronize it with Italian time was not immediate since Amazon Linux doesn’t work exactly like other distributions, this guide really help me: https://stackoverflow.com/questions/57960715/changing-timezone-in-ec2-linux-instance.
 To put the scripts on the amazon server and run it forever I followed the following tutorial: https://www.youtube.com/watch?v=xXirbnUB3NU&t=324s.
 
-##Conclusion
+# Conclusion
 This projects was very interesting ,nice and easy to do. I found a solution to one of my problems respecting all the requirements and i learned some very interesting stuff and I developed the bot so that also my friends, or anyone that is interested, con use it freely. 
