@@ -1,4 +1,4 @@
 # created by virtualenv automatically
-/.idea
-/bin
-/lib/python3.9/site-packages
+/.idea/
+/bin/
+/lib/python3.9/site-packages/
